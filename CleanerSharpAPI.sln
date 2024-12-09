@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanerSharpAPI", "CleanerSharpAPI\CleanerSharpAPI.csproj", "{0CD9C416-E78D-4563-81FC-9FAB978713FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD9C416-E78D-4563-81FC-9FAB978713FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD9C416-E78D-4563-81FC-9FAB978713FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD9C416-E78D-4563-81FC-9FAB978713FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD9C416-E78D-4563-81FC-9FAB978713FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A38A4B6-0617-45D0-9DAC-47B302C68B72}
+	EndGlobalSection
+EndGlobal
